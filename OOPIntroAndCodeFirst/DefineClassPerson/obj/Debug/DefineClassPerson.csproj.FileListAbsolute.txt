@@ -1,0 +1,6 @@
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\DefineClassPerson\bin\Debug\DefineClassPerson.exe.config
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\DefineClassPerson\bin\Debug\DefineClassPerson.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\DefineClassPerson\bin\Debug\DefineClassPerson.pdb
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\DefineClassPerson\obj\Debug\DefineClassPerson.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\DefineClassPerson\obj\Debug\DefineClassPerson.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\DefineClassPerson\obj\Debug\DefineClassPerson.pdb

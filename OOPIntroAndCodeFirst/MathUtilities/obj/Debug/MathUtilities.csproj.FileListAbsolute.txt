@@ -1,0 +1,6 @@
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\MathUtilities\bin\Debug\MathUtilities.exe.config
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\MathUtilities\bin\Debug\MathUtilities.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\MathUtilities\bin\Debug\MathUtilities.pdb
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\MathUtilities\obj\Debug\MathUtilities.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\MathUtilities\obj\Debug\MathUtilities.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\MathUtilities\obj\Debug\MathUtilities.pdb

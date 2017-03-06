@@ -1,0 +1,6 @@
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\Students\bin\Debug\Students.exe.config
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\Students\bin\Debug\Students.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\Students\bin\Debug\Students.pdb
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\Students\obj\Debug\Students.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\Students\obj\Debug\Students.pdb

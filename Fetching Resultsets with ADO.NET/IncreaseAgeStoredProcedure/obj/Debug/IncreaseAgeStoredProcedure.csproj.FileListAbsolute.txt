@@ -1,0 +1,6 @@
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\IncreaseAgeStoredProcedure\bin\Debug\IncreaseAgeStoredProcedure.exe.config
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\IncreaseAgeStoredProcedure\bin\Debug\IncreaseAgeStoredProcedure.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\IncreaseAgeStoredProcedure\bin\Debug\IncreaseAgeStoredProcedure.pdb
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\IncreaseAgeStoredProcedure\obj\Debug\IncreaseAgeStoredProcedure.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\IncreaseAgeStoredProcedure\obj\Debug\IncreaseAgeStoredProcedure.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\IncreaseAgeStoredProcedure\obj\Debug\IncreaseAgeStoredProcedure.pdb

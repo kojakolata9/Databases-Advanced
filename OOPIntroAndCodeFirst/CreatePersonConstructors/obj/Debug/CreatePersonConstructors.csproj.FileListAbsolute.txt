@@ -1,0 +1,5 @@
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\CreatePersonConstructors\bin\Debug\CreatePersonConstructors.exe.config
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\CreatePersonConstructors\bin\Debug\CreatePersonConstructors.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\CreatePersonConstructors\bin\Debug\CreatePersonConstructors.pdb
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\CreatePersonConstructors\obj\Debug\CreatePersonConstructors.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\OOPIntroAndCodeFirst\CreatePersonConstructors\obj\Debug\CreatePersonConstructors.pdb

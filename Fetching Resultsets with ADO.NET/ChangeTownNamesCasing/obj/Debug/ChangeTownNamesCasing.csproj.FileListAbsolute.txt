@@ -1,0 +1,6 @@
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\ChangeTownNamesCasing\bin\Debug\ChangeTownNamesCasing.exe.config
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\ChangeTownNamesCasing\bin\Debug\ChangeTownNamesCasing.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\ChangeTownNamesCasing\bin\Debug\ChangeTownNamesCasing.pdb
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\ChangeTownNamesCasing\obj\Debug\ChangeTownNamesCasing.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\ChangeTownNamesCasing\obj\Debug\ChangeTownNamesCasing.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\ChangeTownNamesCasing\obj\Debug\ChangeTownNamesCasing.pdb

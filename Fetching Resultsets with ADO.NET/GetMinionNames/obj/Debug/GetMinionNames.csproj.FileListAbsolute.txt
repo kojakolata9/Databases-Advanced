@@ -1,0 +1,6 @@
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\GetMinionNames\bin\Debug\GetMinionNames.exe.config
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\GetMinionNames\bin\Debug\GetMinionNames.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\GetMinionNames\bin\Debug\GetMinionNames.pdb
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\GetMinionNames\obj\Debug\GetMinionNames.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\GetMinionNames\obj\Debug\GetMinionNames.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\GetMinionNames\obj\Debug\GetMinionNames.pdb

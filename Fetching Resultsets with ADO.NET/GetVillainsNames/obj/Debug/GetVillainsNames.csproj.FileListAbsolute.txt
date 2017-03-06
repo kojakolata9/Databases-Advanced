@@ -1,0 +1,5 @@
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\GetVillainsNames\bin\Debug\GetVillainsNames.exe.config
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\GetVillainsNames\bin\Debug\GetVillainsNames.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\GetVillainsNames\bin\Debug\GetVillainsNames.pdb
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\GetVillainsNames\obj\Debug\GetVillainsNames.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\GetVillainsNames\obj\Debug\GetVillainsNames.pdb

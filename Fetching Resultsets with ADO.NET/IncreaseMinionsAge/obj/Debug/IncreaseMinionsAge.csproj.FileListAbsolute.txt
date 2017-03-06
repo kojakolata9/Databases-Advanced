@@ -1,0 +1,6 @@
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\IncreaseMinionsAge\bin\Debug\IncreaseMinionsAge.exe.config
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\IncreaseMinionsAge\bin\Debug\IncreaseMinionsAge.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\IncreaseMinionsAge\bin\Debug\IncreaseMinionsAge.pdb
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\IncreaseMinionsAge\obj\Debug\IncreaseMinionsAge.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\IncreaseMinionsAge\obj\Debug\IncreaseMinionsAge.exe
+C:\Users\Ivan Stoyanov\Documents\Visual Studio 2015\Projects\Fetching Resultsets with ADO.NET\IncreaseMinionsAge\obj\Debug\IncreaseMinionsAge.pdb
